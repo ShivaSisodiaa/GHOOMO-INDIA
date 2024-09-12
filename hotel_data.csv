@@ -1,0 +1,19 @@
+Unique ID,Hotel Name,City,State,Price per Day,Discount,Complimentary Breakfast,Complimentary Dinner,Check-in Time,Check-out Time,Swimming Pool,Cab Facility,Extra Bed Availability,Distance from Airport,Distance from Railway Station
+1,Fancy Mumbai Hotel,Mumbai,Maharashtra,2705.18,19,Yes,No,10:52 AM IST,13:09 PM IST,Yes,Yes,Yes,5.73,4.97
+2,Fancy Pune Hotel,Pune,Maharashtra,2494.6,23,Yes,No,09:14 AM IST,13:01 PM IST,No,No,No,1.93,9.5
+3,Fancy Delhi Hotel,Delhi,Delhi,4379.3,23,Yes,No,09:14 AM IST,14:37 PM IST,No,Yes,Yes,18.63,9.56
+4,Fancy Noida Hotel,Noida,Uttar Pradesh,3396.9,13,No,Yes,10:07 AM IST,13:36 PM IST,Yes,No,No,1.83,3.18
+5,Fancy Greater Noida Hotel,Greater Noida,Uttar Pradesh,3977.3,14,Yes,No,08:01 AM IST,14:32 PM IST,Yes,No,Yes,4.01,1.36
+6,Fancy Ahmedabad Hotel,Ahmedabad,Gujarat,1031.51,29,No,Yes,09:22 AM IST,13:23 PM IST,No,No,Yes,14.63,9.71
+7,Fancy Gandhinagar Hotel,Gandhinagar,Gujarat,2009.7,13,No,Yes,09:15 AM IST,14:02 PM IST,No,No,No,13.89,3.71
+8,Fancy Bangalore Hotel,Bangalore,Karnataka,3840.14,29,Yes,No,08:55 AM IST,13:09 PM IST,No,No,No,3.0,5.28
+9,Fancy Hyderabad Hotel,Hyderabad,Telangana,1701.76,13,No,Yes,09:20 AM IST,14:38 PM IST,No,Yes,Yes,13.07,1.58
+10,Fancy Chennai Hotel,Chennai,Tamil Nadu,3668.21,12,No,Yes,08:34 AM IST,14:43 PM IST,Yes,Yes,No,12.8,2.51
+11,Fancy Visakhapatnam Hotel,Visakhapatnam,Andhra Pradesh,1338.64,26,No,Yes,10:34 AM IST,12:36 PM IST,Yes,Yes,Yes,6.39,5.81
+12,Fancy Kolkata Hotel,Kolkata,West Bengal,2502.13,29,Yes,No,09:40 AM IST,12:17 PM IST,No,No,No,6.76,2.81
+13,Fancy Chandigarh Hotel,Chandigarh,Chandigarh,4177.57,24,No,Yes,08:31 AM IST,14:29 PM IST,Yes,Yes,No,1.82,4.19
+14,Fancy Gurugram Hotel,Gurugram,Haryana,3606.57,13,No,Yes,08:33 AM IST,13:29 PM IST,No,No,Yes,3.57,9.91
+15,Fancy Srinagar Hotel,Srinagar,Jammu and Kashmir,2650.22,25,No,Yes,08:32 AM IST,13:22 PM IST,Yes,Yes,No,5.25,8.69
+16,Fancy Lucknow Hotel,Lucknow,Uttar Pradesh,2606.34,17,No,Yes,08:56 AM IST,12:00 PM IST,No,No,Yes,19.84,6.42
+17,Fancy Patna Hotel,Patna,Bihar,1253.64,15,No,Yes,08:34 AM IST,12:26 PM IST,No,Yes,Yes,17.97,1.23
+18,Fancy Agra Hotel,Agra,Uttar Pradesh,1870.65,18,Yes,No,08:58 AM IST,12:49 PM IST,Yes,Yes,Yes,12.39,8.72

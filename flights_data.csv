@@ -1,0 +1,51 @@
+Unique Flight ID,Company Name,Ticket Price,Departure City,Destination City,Average Flight Duration,Number of Stoppages,Date
+1,Indigo,3180.27,Gurugram,Delhi,6.12,0,2023-01-02
+2,Emirates,3799.79,Greater Noida,Hyderabad,9.14,0,2023-09-21
+3,Indigo,5552.42,Visakhapatnam,Hyderabad,3.32,0,2022-11-11
+4,Emirates,4436.4,Chennai,Noida,7.36,2,2023-04-16
+5,Emirates,1192.59,Srinagar,Noida,9.69,0,2023-03-27
+6,Air India,7038.27,Pune,Greater Noida,1.35,1,2023-05-22
+7,Go First,8873.47,Kolkata,Chennai,9.07,1,2021-05-31
+8,Go First,1543.34,Hyderabad,Chennai,6.48,0,2021-07-19
+9,Air India,3543.0,Mumbai,Lucknow,7.81,2,2023-06-27
+10,Emirates,3565.81,Mumbai,Patna,1.8,1,2020-05-28
+11,Emirates,5918.89,Mumbai,Delhi,7.16,1,2022-05-19
+12,Indigo,7395.52,Gandhinagar,Lucknow,7.88,1,2022-10-04
+13,Air India,7385.89,Ahmedabad,Noida,1.39,0,2020-07-30
+14,Go First,8199.98,Hyderabad,Greater Noida,9.5,2,2024-02-04
+15,Air India,4299.55,Delhi,Lucknow,8.68,2,2022-04-04
+16,Indigo,5026.91,Kolkata,Visakhapatnam,5.44,2,2022-04-10
+17,Indigo,1339.22,Srinagar,Pune,2.52,1,2023-12-29
+18,Air India,1966.6,Noida,Chandigarh,3.11,1,2023-08-02
+19,Vistara,9009.33,Mumbai,Kolkata,6.8,2,2020-04-22
+20,Emirates,9652.63,Pune,Noida,9.3,1,2020-10-26
+21,Indigo,1221.57,Greater Noida,Bangalore,2.75,2,2021-11-21
+22,Vistara,5095.31,Delhi,Gurugram,7.95,1,2022-08-21
+23,Go First,2329.88,Noida,Kolkata,1.56,1,2021-12-11
+24,Spice Jet,9857.29,Noida,Pune,8.08,2,2022-11-11
+25,Indigo,8951.22,Hyderabad,Agra,8.21,0,2022-05-14
+26,Indigo,7979.9,Hyderabad,Noida,6.68,0,2022-12-13
+27,Spice Jet,9217.17,Patna,Gurugram,8.12,1,2022-08-19
+28,Spice Jet,6457.28,Delhi,Mumbai,3.91,1,2022-03-07
+29,Air India,7253.6,Greater Noida,Agra,6.35,2,2021-10-16
+30,Emirates,9921.75,Mumbai,Kolkata,6.52,2,2020-10-03
+31,Vistara,8622.12,Ahmedabad,Delhi,5.7,0,2022-02-19
+32,Emirates,1478.63,Delhi,Bangalore,3.58,1,2022-03-15
+33,Go First,9082.03,Greater Noida,Bangalore,4.58,1,2021-11-26
+34,Go First,8115.67,Chennai,Chandigarh,4.79,2,2020-12-31
+35,Emirates,7335.58,Delhi,Gurugram,2.93,2,2022-08-28
+36,Indigo,8903.52,Pune,Bangalore,8.6,0,2022-02-21
+37,Go First,3328.25,Agra,Pune,2.25,2,2020-10-07
+38,Vistara,1543.9,Gandhinagar,Ahmedabad,6.12,1,2020-08-22
+39,Emirates,8541.48,Gandhinagar,Srinagar,3.23,2,2020-05-15
+40,Air India,3130.97,Pune,Gandhinagar,4.79,0,2020-01-12
+41,Go First,5182.29,Delhi,Mumbai,6.42,0,2023-08-20
+42,Go First,9996.91,Pune,Patna,8.82,2,2023-10-12
+43,Air India,1410.45,Patna,Visakhapatnam,1.79,0,2022-11-07
+44,Emirates,8243.92,Ahmedabad,Delhi,6.84,2,2020-03-27
+45,Air India,9294.79,Greater Noida,Lucknow,6.28,1,2020-07-07
+46,Vistara,9214.99,Gurugram,Agra,5.7,2,2020-12-27
+47,Air India,1192.32,Agra,Chennai,8.81,1,2021-04-20
+48,Vistara,8517.99,Gurugram,Ahmedabad,9.87,1,2021-07-01
+49,Go First,4503.73,Greater Noida,Srinagar,1.34,0,2022-09-15
+50,Air India,2251.05,Delhi,Srinagar,1.28,0,2022-09-15

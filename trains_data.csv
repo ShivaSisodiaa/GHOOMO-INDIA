@@ -1,0 +1,51 @@
+Unique Train ID,Train Name,Ticket Price,Departure City,Destination City,Average Travel Duration,Number of Stoppages,Date
+1,Garib Rath Express,3326.13,Patna,Kolkata,3.45,2,2023-09-04
+2,Duronto Express,3191.88,Greater Noida,Srinagar,2.72,4,2022-07-28
+3,Sampark Kranti Express,3079.33,Patna,Visakhapatnam,11.9,5,2020-12-04
+4,Duronto Express,4791.33,Pune,Visakhapatnam,8.32,0,2023-09-17
+5,Garib Rath Express,1933.21,Chennai,Gurugram,1.36,2,2021-05-31
+6,Jan Shatabdi Express,607.07,Noida,Greater Noida,7.16,1,2022-12-24
+7,Duronto Express,4720.09,Visakhapatnam,Chennai,7.17,2,2021-06-11
+8,Shatabdi Express,1998.04,Chandigarh,Ahmedabad,8.07,4,2022-05-07
+9,Garib Rath Express,2719.55,Kolkata,Agra,3.01,2,2020-08-25
+10,Shatabdi Express,2105.75,Bangalore,Agra,7.56,0,2021-10-26
+11,Sampark Kranti Express,2654.31,Gurugram,Bangalore,1.69,5,2023-10-16
+12,Rajdhani Express,4541.69,Greater Noida,Srinagar,7.72,1,2021-08-22
+13,Shatabdi Express,551.0,Agra,Pune,10.61,4,2023-02-10
+14,Duronto Express,1869.12,Pune,Mumbai,5.19,3,2022-06-20
+15,Sampark Kranti Express,2388.77,Delhi,Ahmedabad,5.76,0,2022-09-13
+16,Garib Rath Express,1878.72,Delhi,Chandigarh,6.58,5,2023-02-20
+17,Shatabdi Express,1135.06,Kolkata,Noida,11.1,1,2020-09-13
+18,Jan Shatabdi Express,2086.6,Mumbai,Chandigarh,5.6,2,2020-02-21
+19,Sampark Kranti Express,2681.85,Gurugram,Patna,6.07,5,2020-11-16
+20,Jan Shatabdi Express,2883.03,Pune,Greater Noida,3.52,0,2021-06-28
+21,Duronto Express,2947.97,Lucknow,Visakhapatnam,5.59,2,2020-09-14
+22,Sampark Kranti Express,3353.25,Agra,Srinagar,3.01,3,2020-04-05
+23,Jan Shatabdi Express,3797.61,Mumbai,Noida,1.81,4,2022-01-11
+24,Shatabdi Express,547.97,Visakhapatnam,Kolkata,2.04,3,2022-05-17
+25,Shatabdi Express,1158.87,Gurugram,Hyderabad,4.45,0,2021-09-16
+26,Garib Rath Express,4342.5,Delhi,Hyderabad,4.2,5,2021-03-23
+27,Sampark Kranti Express,3426.11,Mumbai,Kolkata,8.87,0,2021-11-25
+28,Shatabdi Express,2821.29,Lucknow,Agra,3.65,4,2023-11-11
+29,Duronto Express,2949.48,Agra,Noida,7.14,2,2022-07-29
+30,Duronto Express,4498.24,Patna,Pune,1.82,1,2021-03-10
+31,Rajdhani Express,2934.38,Chandigarh,Mumbai,3.72,4,2023-12-27
+32,Shatabdi Express,800.77,Delhi,Noida,10.8,4,2020-03-16
+33,Garib Rath Express,3786.73,Noida,Greater Noida,11.75,1,2022-05-24
+34,Rajdhani Express,2889.66,Pune,Gandhinagar,5.99,1,2020-11-03
+35,Garib Rath Express,3704.36,Chandigarh,Greater Noida,6.76,5,2023-06-12
+36,Duronto Express,4156.71,Chennai,Ahmedabad,4.71,4,2020-04-23
+37,Rajdhani Express,1512.49,Lucknow,Noida,7.97,0,2022-03-12
+38,Duronto Express,3389.04,Srinagar,Greater Noida,3.7,5,2023-12-23
+39,Duronto Express,1510.57,Bangalore,Delhi,7.4,4,2020-11-19
+40,Shatabdi Express,598.19,Mumbai,Bangalore,7.56,1,2023-03-02
+41,Rajdhani Express,3715.22,Delhi,Agra,3.92,3,2023-01-26
+42,Rajdhani Express,4743.84,Greater Noida,Gurugram,3.12,4,2023-10-10
+43,Jan Shatabdi Express,4984.3,Gurugram,Bangalore,3.37,2,2021-05-26
+44,Garib Rath Express,1126.98,Noida,Ahmedabad,9.52,0,2021-05-07
+45,Rajdhani Express,2147.16,Hyderabad,Chennai,5.05,1,2022-06-30
+46,Jan Shatabdi Express,2218.85,Pune,Kolkata,6.02,0,2023-10-23
+47,Shatabdi Express,3820.89,Hyderabad,Chandigarh,11.2,2,2023-12-17
+48,Duronto Express,1917.79,Gurugram,Chandigarh,9.21,3,2022-09-07
+49,Rajdhani Express,787.5,Ahmedabad,Hyderabad,1.41,2,2023-09-04
+50,Garib Rath Express,1430.53,Chandigarh,Visakhapatnam,7.56,0,2020-09-13
